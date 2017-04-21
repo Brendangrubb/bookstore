@@ -15,15 +15,19 @@
 * Go to the [Github repository](https://github.com/Brendangrubb/bookstore)
 * Download the zip file via the green button
 * Unzip the file and open the **_bookstore-master_** folder
-* Inside of the **__bookstore-master/sites/db-backup_** folder, grab the **_bookstore.sql.zip_** file
-* Open MAMP (or equivalent) and click on preferences/ports.
+* Inside of the **_bookstore-master/sites/db-backup_** folder, grab the **_bookstore.sql.zip_** file
+* Open MAMP (or equivalent) and click on preferences.
     * In the Web Server tab, set the Document Root to the project folder, **_bookstore-master_**.
-    * Make sure that the Apache port number is set to 8888 and the MySQL port number is set to 8889
+    * In the Ports tab, make sure that the Apache port number is set to 8888 and the MySQL port number is set to 8889
     * Click start servers.
 * Type **_localhost:8888/phpmyadmin_** into your web browser
     * Click the _Import_ tab on the nav bar
     * Click _Choose File_ and navigate to **_bookstore.sql.zip_**
-    * click _GO_
+    * Click _GO_
+    * Click the _User Accounts_ tab on the nav bar
+    * Click _Add user account_
+    * Enter _bookstore_ as username, _local_ as hostname and _bookstore_ as password
+    * Check all _Global privilages_ and click _Go_
 * Type **_localhost:8888_** into your web browser
 * The application will load and be ready to use!
 
