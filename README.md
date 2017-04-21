@@ -1,10 +1,10 @@
-# **Brendan's Bookstore**
+# **Excelsior Books**
 #### Brendan Grubb, 4/21/2017
 
 
 &nbsp;
 ## Description
-**Brendan's Bookstore** is an application that demonstrates my ability to build a project using the Drupal framework. This website was built for the owner of a bookstore. The users of this site are able to access an about page and a page listing bookstore locations, plus a blogroll on the main page featuring news and updates. Authenticated users have access to exclusive content. Users designated "reviewers" are able to add book reviews which are viewable by everyone and displayed on a block through out the site. Reviewers can edit and delete their reviews. All users, regardless of role are able to contact the site administrator. 
+**Excelsior Books** is an application that demonstrates my ability to build a project using the Drupal framework. This website was built for the owner of a bookstore. The users of this site are able to access an about page and a page listing bookstore locations, plus a blogroll on the main page featuring news and updates. Authenticated users have access to exclusive content. Users designated "reviewers" are able to add book reviews which are viewable by everyone and displayed on a block through out the site. Reviewers can edit and delete their reviews. All users, regardless of role are able to contact the site administrator. 
 
 &nbsp;
 ## Setup/Installation Requirements
